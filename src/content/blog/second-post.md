@@ -9,20 +9,14 @@ heroImage: "/blog-placeholder-4.jpg"
 
 You may also like - <a href="https://deepseekpromptgenerator.com/">Deepseek Prompt Generator</a>
 
- <p><strong>Example:</strong></p>
+<h2>1. Start with Clarity: Know What You Want</h2>
+<p>The biggest mistake people make when writing prompts is not being clear about their goal. Before typing a single word, ask yourself: <em>What exactly do I want the reader or AI to do?</em></p>
+    
+    <p><strong>Example:</strong></p>
     <p><strong>Weak prompt:</strong> <code>“Write a story.”</code></p>
     <p><strong>Strong prompt:</strong> <code>“Write a 300-word suspense story about a detective solving a crime in a small coastal town.”</code></p>
-
-<h2>1. Start with Clarity: Know What You Want</h2>
-The biggest mistake people make when writing prompts is not being clear about their goal. Before typing a single word, ask yourself: What exactly do I want the reader or AI to do?
-
-Example:
-
-Weak prompt: “Write a story.”
-
-Strong prompt: “Write a 300-word suspense story about a detective solving a crime in a small coastal town.”
-
-Pro Tip: Avoid vague words like “interesting,” “creative,” or “good.” Instead, use specific adjectives: “humorous,” “heartwarming,” “fast-paced.”
+    
+    <p><strong>Pro Tip:</strong> Avoid vague words like <em>“interesting,”</em> <em>“creative,”</em> or <em>“good.”</em> Instead, use specific adjectives: <em>“humorous,”</em> <em>“heartwarming,”</em> <em>“fast-paced.”</em></p>
 
 2. Be Specific (But Not Restrictive)
 Specificity is the secret sauce of great prompts. Details help narrow the focus, but you don’t want to micromanage every detail. Think of it like giving someone a recipe: list the key ingredients, but let them add their own spices.
