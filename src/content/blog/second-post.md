@@ -1,7 +1,7 @@
 ---
 title: "How to Write Effective Prompts: A Step-by-Step Guide for Better Results"
 description: "Writing prompts—whether for creative writing, AI tools like ChatGPT, or classroom assignments—is a skill that’s easy to learn but hard to master. A good prompt acts like a roadmap: it guides the person (or machine) receiving it toward the exact destination you have in mind. But if your prompt is vague, confusing, or overly broad, you’ll end up with results that miss the mark."
-pubDate: "Jul 15 2022"
+pubDate: "Apr 5 2025"
 heroImage: "/blog-placeholder-4.jpg"
 ---
 
