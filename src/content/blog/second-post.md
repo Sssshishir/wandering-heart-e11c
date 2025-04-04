@@ -111,11 +111,14 @@ Without role-play: “Explain how photosynthesis works.”
 
 With role-play: “You’re a science teacher explaining photosynthesis to a 5th-grade class. Use simple language and a fun analogy, like comparing chloroplasts to tiny chefs.”
 
-Common Mistakes to Avoid
+<h2>Common Mistakes to Avoid</h2>
+
 Overcomplicating: Using fancy words or jargon.
 Assuming Prior Knowledge: Not explaining terms like “SEO” or “blockchain.”
 Skipping Proofreading: Typos or grammar errors can confuse responders.
+
 Final Thoughts
+
 Writing great prompts is like learning to give good directions: the clearer you are, the fewer wrong turns people (or AI) will take. Start with a clear goal, add specifics and examples, and don’t hesitate to revise. With practice, you’ll spend less time fixing misunderstandings and more time enjoying the results.
 
 Remember: A prompt is a collaboration. The better you communicate your vision, the better the outcome will be. Happy prompting!
