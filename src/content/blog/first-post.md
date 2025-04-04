@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blog Index"
 description: ""
 pubDate: "Apr 04 2025"
 heroImage: "/blog-placeholder-3.jpg"
