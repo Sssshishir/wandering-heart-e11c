@@ -11,8 +11,9 @@ You may also like - <a href="https://deepseekpromptgenerator.com/">Deepseek Prom
 
 <h2>1. Start with Clarity: Know What You Want</h2>
 <p>The biggest mistake people make when writing prompts is not being clear about their goal. Before typing a single word, ask yourself: <em>What exactly do I want the reader or AI to do?</em></p>
-    
-    <p><strong>Example:</strong></p>
+
+        <p><strong>Example:</strong></p>
+        
     <p><strong>Weak prompt:</strong> <code>“Write a story.”</code></p>
     <p><strong>Strong prompt:</strong> <code>“Write a 300-word suspense story about a detective solving a crime in a small coastal town.”</code></p>
     
