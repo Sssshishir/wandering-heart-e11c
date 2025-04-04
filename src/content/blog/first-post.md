@@ -1,6 +1,6 @@
 ---
-title: "How to Write Effective Prompts: A Step-by-Step Guide for Better Results"
-description: "In this article, we’ll break down the art of writing prompts into simple, actionable steps. Whether you’re a teacher, a writer, or someone experimenting with AI, these tips will help you craft prompts that get the outcomes you want."
+title: "Blog"
+description: ""
 pubDate: "Apr 04 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
