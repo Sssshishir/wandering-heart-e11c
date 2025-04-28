@@ -59,7 +59,7 @@ Step 1: Master the Fundamentals of AI
 You don’t need a PhD, but you do need to grasp how AI models work.
 
 Start here:
-<br>
+<br></br>
 How LLMs (Large Language Models) Operate: Learn tokenization, training data, and how models like GPT-4 generate text. Resources: OpenAI’s documentation, free Coursera courses.
 
 Limitations: AI hallucinates facts, struggles with context, and reflects biases. Your prompts must anticipate these pitfalls.
