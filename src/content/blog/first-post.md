@@ -113,7 +113,7 @@ Output: 10 headline ideas + 5 subheadings with keyword integration.
 Document Your Process
 Write case studies: *“How I Increased a SaaS Company’s CTR by 40% Using AI-Generated Email Subject Lines.”*
 <br></br>
-Step 4: Learn the Tools of the Trade
+<h2>Step 4: Learn the Tools of the Trade</h2>
 Must-Know Platforms
 OpenAI Playground: Test prompts with GPT-4 and analyze outputs.
 
@@ -126,7 +126,7 @@ LangChain: Build complex AI workflows by chaining prompts.
 
 PromptLayer: Track prompt performance and optimize based on analytics.
 <br></br>
-Step 5: Monetize Your Skills
+</h2>Step 5: Monetize Your Skills</h2>
 Freelancing
 Platforms like Upwork and Toptal list prompt engineering gigs. Charge 
 50
