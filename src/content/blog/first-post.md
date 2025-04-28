@@ -59,13 +59,13 @@ Step 1: Master the Fundamentals of AI
 You don’t need a PhD, but you do need to grasp how AI models work.
 
 Start here:
-
+<br>
 How LLMs (Large Language Models) Operate: Learn tokenization, training data, and how models like GPT-4 generate text. Resources: OpenAI’s documentation, free Coursera courses.
 
 Limitations: AI hallucinates facts, struggles with context, and reflects biases. Your prompts must anticipate these pitfalls.
 
 Ethics: Understand responsible AI use—avoid prompts that generate harmful or misleading content.
-
+<br>
 Pro Tip: Experiment with free tools like ChatGPT, Claude, or Google Bard to see how tweaking phrases changes outputs.
 
 Step 2: Develop Core Prompt Engineering Skills
